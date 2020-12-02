@@ -1,2 +1,2 @@
-# Deep-Fakes
-Deeps fakes on the MNIST dataset
+# Generative Modelling
+Generative Modelling on the MNIST dataset
